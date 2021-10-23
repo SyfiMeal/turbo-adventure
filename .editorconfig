@@ -10,7 +10,7 @@ root = true
 # - Uses Unix-style newlines
 # - Has a newline at the end of every file
 # - Trims trailing whitespace
-[*]
+[ExportConsole]
 charset = utf-8
 indent_style = space
 indent_size = 2
